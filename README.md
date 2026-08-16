@@ -17,7 +17,7 @@
 
 **Languages:** Python, C++, SQL  
 **AI / ML:** RAG, LangChain, LangGraph, FAISS, ChromaDB, HuggingFace Transformers, Prompt Engineering, Agentic Workflows  
-**Real-Time & Multimodal:** Groq (Llama3, Whisper/Vision), Deepgram, WebSockets, Voice Activity Detection, STT/TTS  
+**Real-Time & Multimodal:** Groq Llama3, Whisper/Vision, Deepgram, WebSockets, Voice Activity Detection, STT/TTS
 **Frameworks:** FastAPI, Streamlit, TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas  
 **Tools:** Git, GitHub Actions, Docker, AWS EC2  
 **APIs:** Google Gemini, Mistral, Twilio, Cloudflare, HuggingFace Inference
