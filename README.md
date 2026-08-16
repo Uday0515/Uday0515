@@ -4,7 +4,6 @@
 🤖 Building GenAI systems — RAG pipelines, real-time voice agents, and multimodal AI assistants  
 🔭 Currently exploring agentic workflows, real-time audio/voice pipelines, and production-grade LLM deployments
 
----
 
 ### ⚡ What I build
 
@@ -13,7 +12,6 @@
 - 💬 **WhatsApp HR RAG Assistant** — retrieval-augmented HR assistant over WhatsApp with OTP-gated intent routing
 - 📚 **College Department RAG System** — RAG pipeline over academic PDFs, evaluated with RAGAS (faithfulness, relevancy, context precision/recall)
 
----
 
 ### 🛠️ Tech Stack
 
@@ -24,7 +22,6 @@
 **Tools:** Git, GitHub Actions, Docker, AWS EC2  
 **APIs:** Google Gemini, Mistral, Twilio, Cloudflare, HuggingFace Inference
 
----
 
 ### 📫 Reach me
 
